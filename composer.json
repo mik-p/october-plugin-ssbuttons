@@ -1,0 +1,25 @@
+{
+  "name": "martin/oc-ssbuttons-plugin",
+  "type": "winter-plugin",
+  "description": "Simple Social Sharing buttons plugin",
+  "homepage": "https://github.com/mik-p/oc-ssbuttons-plugin",
+  "version": "1.3.1",
+  "authors": [
+    {
+      "name": "skydiver"
+    }
+  ],
+  "keywords": [
+    "wintercms",
+    "plugin",
+    "sharing",
+    "buttons"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "composer/installers": "~1.0"
+  },
+  "extra": {
+    "installer-name": "SSButtons"
+  }
+}
